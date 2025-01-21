@@ -1,7 +1,22 @@
+body {
+  margin-left: 0px;
+}
+
 #title {
   color: red;
 }
 
 .p-text {
   font-size: 2rem;
+}
+
+.footer {
+  background-color: #81927a;
+  height: 400px;
+  width: 100%;
+}
+
+#footer-text {
+  padding-top: 20px;
+  padding-left: 10px;
 }
